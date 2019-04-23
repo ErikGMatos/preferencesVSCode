@@ -1,0 +1,72 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 24,
+    "editor.fontSize": 15,
+    "editor.snippetSuggestions": "top",
+    "terminal.integrated.fontFamily": "Fira Code Retina",
+    "editor.fontWeight": "300",
+    "materialTheme.accent": "Orange",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#ff1491",
+        //"list.activeSelectionForeground": "#fff",
+        //"list.inactiveSelectionForeground": "#ffffff",
+        //"list.highlightForeground": "#ff14914f",
+        //"scrollbarSlider.activeBackground": "#fff",
+        //"scrollbarSlider.hoverBackground": "#ff149128",
+        //"scrollbarSlider.background": "#ff14911f",
+        "editorSuggestWidget.highlightForeground": "#ff1491",
+        //"textLink.foreground": "#ff14914f",
+        "progressBar.background": "#ff14914f",
+        //"pickerGroup.foreground": "#ff14914f",
+        "tab.activeBorder": "#ff1491",
+        "tab.activeBackground": "#ff14914f",
+        //"notificationLink.foreground": "#ff14914f",
+        //"editorWidget.resizeBorder": "#ff14914f",
+        //"editorWidget.border": "#ff14914f",
+        //"settings.modifiedItemIndicator": "#ff14914f",
+        //"settings.headerForeground": "#ff14914f",
+        //"panelTitle.activeBorder": "#ff14914f",
+        //"breadcrumb.activeSelectionForeground": "#ff14914f",
+        //"menu.selectionForeground": "#ff14914f",
+        "menubar.selectionForeground": "#fff",
+        "menubar.selectionBackground": "#ff14914f",
+        "sideBar.border": "#ff14914f",
+        "editor.selectionBackground": "#ff14914f",
+        "editor.selectionHighlightBackground": "#ff14914f",
+        "editorBracketMatch.border": "#ff1491",
+        "editorBracketMatch.background": "#ff14911a",
+        "editor.lineHighlightBackground": "#ff14914f",
+        "list.activeSelectionBackground": "#ff14912f",
+        "list.inactiveSelectionBackground": "#ff14912f",
+        "list.hoverBackground": "#ff14912f",
+        "list.hoverForeground": "#fff",
+        "list.errorForeground": "#ff0800",
+        "editorCursor.foreground": "#ff1491"
+    },
+    // Set the default
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    // Enable per-language
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.formatOnSave": true
+    },
+    "prettier.tabWidth": 4,
+    "prettier.eslintIntegration": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderLineHighlight": "gutter",
+    "material-icon-theme.showWelcomeMessage": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+}
