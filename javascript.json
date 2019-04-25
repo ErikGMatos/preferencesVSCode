@@ -1,3 +1,9 @@
-(tra) => {
-    return
+{
+    "arrow function": {
+        "prefix": "arr",
+        "body": [
+            "($params) => {$block}"
+        ],
+        "description": "arrow function"
+    }
 }
